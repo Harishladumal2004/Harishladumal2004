@@ -1,4 +1,4 @@
-# Hi, I'm Harish
+# Hi, I'm Harish Raghani
 
 ### Aspiring Data Analyst | Business & IT Student | SQL Enthusiast
 
