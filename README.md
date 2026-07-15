@@ -20,10 +20,9 @@ Welcome to my GitHub profile! I'm an Business & IT student with a strong interes
 
 ## 💻 Programming Languages
 
-* C
-* C++
-* Python
-* SQL
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)  ![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql) ![C](https://img.shields.io/badge/C-00599C?logo=c) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
 
 ---
 
