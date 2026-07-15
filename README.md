@@ -12,7 +12,8 @@ Welcome to my GitHub profile! I'm an Business & IT student with a strong interes
 
 # 🛠 Tech Stack
 
-## 📊 Data Analytics![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-Data%20Analysis-blueviolet)
+## 📊 Data Analytics
+![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-Data%20Analysis-blueviolet)
 
 ## 💻 Programming Languages
 
@@ -32,4 +33,6 @@ Welcome to my GitHub profile! I'm an Business & IT student with a strong interes
 
 ## 🧰 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter) ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?logo=mysql)
+## 📊 Data Analytics
+
+![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
