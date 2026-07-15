@@ -16,9 +16,6 @@ Welcome to my GitHub profile! I'm an Business & IT student with a strong interes
 * Currently exploring Advanced SQL, Power BI, Tableau, and Python for Data Analysis
 * Building real-world projects to gain practical industry experience
 
----
-
-## 💻 Programming Languages
 
 ### 💻 Programming Languages
 
@@ -49,19 +46,11 @@ Welcome to my GitHub profile! I'm an Business & IT student with a strong interes
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠 Tech Stack
 
 ### 🧰 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter)
-
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter) ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?logo=mysql)
 ---
 
 ## 📚 Currently Learning
