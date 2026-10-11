@@ -7,9 +7,8 @@ Welcome to my GitHub profile! I'm a Business & IT student with a strong interest
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/harish-raghani-9b8541343/) [![Fiverr](https://img.shields.io/badge/Fiverr-Profile-1DBF73?logo=fiverr)](https://www.fiverr.com/users/harishexcel1) [![Upwork](https://img.shields.io/badge/Upwork-Profile-14A800?logo=upwork)](https://www.upwork.com/freelancers/~01a238548b76e8e175) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:harishraghani555@gamil.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/harish-raghani-9b8541343/) [![Fiverr](https://img.shields.io/badge/Fiverr-Profile-1DBF73?logo=fiverr)](https://www.fiverr.com/users/harishexcel1) [![Upwork](https://img.shields.io/badge/Upwork-Profile-14A800?logo=upwork)](https://www.upwork.com/freelancers/~01a238548b76e8e175) 
 
----
 
 # 🛠 Tech Stack
 
