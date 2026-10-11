@@ -1,6 +1,6 @@
 # Hi, I'm Harish Raghani
 
-### Aspiring Data Analyst | Business & IT Student | SQL Enthusiast
+### Data Analyst | SQL | Python | Power BI | Tableau | Excel | Data Visualization |
 
 Welcome to my GitHub profile! I'm an Business & IT student with a strong interest in Data Analytics, Business Intelligence, and Database Management. I enjoy working with data, solving problems, and building projects that turn raw data into meaningful insights.
 
